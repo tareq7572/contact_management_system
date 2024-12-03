@@ -5,7 +5,7 @@ import delete_contact
 import search
 contacts=[]
 load_from_file.load_data(contacts)
-print(contacts)
+
 
 while True:
     print('Welcome To Contact Book Management System')
